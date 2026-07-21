@@ -1,4 +1,4 @@
-# 🏙️ City Simulation
+# 🏙️ City Simulation (Java)
 
 ![Academic Project](https://img.shields.io/badge/Academic_Project-Sakarya_University-blue)
 

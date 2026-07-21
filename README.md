@@ -139,8 +139,6 @@ Alternatively, execute the compiled JAR located in the dist folder.
 
 ---
 
----
-
 ## 📄 Documentation
 
 The `docs` folder contains:

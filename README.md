@@ -1,4 +1,4 @@
-# 🏙️ City Simulation
+# 🏙️ City Simulation (Java)
 
 ![Academic Project](https://img.shields.io/badge/Academic_Project-Sakarya_University-blue)
 
@@ -28,7 +28,6 @@ Before the simulation begins, the input is automatically validated and adjusted 
 
 During each round:
 
-- Every person becomes one year older.
 - Population grows according to the city's current growth rate.
 - New citizens are generated using **Java Faker**.
 - Neighborhood, district and city populations are recalculated.

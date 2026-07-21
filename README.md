@@ -104,6 +104,8 @@ All newly created cities receive randomly generated Turkish names using **Java F
 
 This project was also implemented in **C** as part of the same university assignment, preserving the same simulation rules and data structures.
 
+The C implementation of this project can be found in **[City Simulation in C](https://github.com/your-username/city-simulation-c)**
+
 Using the same input sequence and the same number of simulation rounds, the C implementation completed the execution significantly faster.
 
 | Implementation | Language | Simulation Rounds | Approximate Execution Time |

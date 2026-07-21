@@ -1,4 +1,4 @@
-# 🏙️ City Simulation (Java)
+# 🏙️ City Simulation in Java
 
 ![Academic Project](https://img.shields.io/badge/Academic_Project-Sakarya_University-blue)
 

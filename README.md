@@ -13,8 +13,6 @@ The project models a hierarchical administrative structure composed of **Cities*
 ## 🛠️ Technologies
 
 - Java
-- Eclipse IDE
-- Java Faker
 
 ---
 

@@ -1,11 +1,5 @@
 # 🏙️ City Simulation in Java
 
-![Academic Project](https://img.shields.io/badge/Academic_Project-Sakarya_University-blue)
-
-![Course](https://img.shields.io/badge/Course-Principles_of_Programming_Languages-blue)
-
-> 🎓 Part of my **[Computer Engineering Academic Portfolio](https://github.com/Lucaskatalahali/computer-engineering-projects)**.
-
 The project models a hierarchical administrative structure composed of **Cities**, **Districts**, **Neighborhoods**, and **People**, simulating population growth over multiple rounds. As cities grow, they dynamically split into new cities according to predefined rules while preserving their internal hierarchy.
 
 ---
@@ -99,7 +93,7 @@ All newly created cities receive randomly generated Turkish names using **Java F
 
 ## ⚡ Performance Comparison
 
-This project was also implemented in **C** as part of the same university assignment, preserving the same simulation rules and data structures.
+This simulation was implemented in both Java and C using identical business logic to analyze execution time, runtime overhead, and memory management differences across runtimes.
 
 The C implementation of this project can be found in **[City Simulation in C](https://github.com/Lucaskatalahali/city-simulation-c)**
 
@@ -109,10 +103,6 @@ Using the same input sequence and the same number of simulation rounds, the C im
 |----------------|----------|-------------------|----------------------------|
 | This repository | Java | 4 | ~15 seconds |
 | C implementation | C | 4 | ~3 seconds |
-
-> **Note**
->
-> The comparison was performed using the same input sequence and simulation settings. The C version benefits from lower runtime overhead and manual memory management, resulting in noticeably faster execution.
 
 ---
 
@@ -148,15 +138,5 @@ The `docs` folder contains:
 
 ## 🎓 Academic Information
 
-- **University:** Sakarya University
-- **Department:** Computer Engineering
-- **Course:** Principles of Programming Languages
-- **Academic Year:** 2025–2026
-
----
-
-## 📌 Notes
-
-This repository preserves the original academic project exactly as it was submitted and evaluated.
-
-For more academic projects, visit my **[Computer Engineering Academic Portfolio](https://github.com/Lucaskatalahali/computer-engineering-projects)**.
+- Sakarya University, Computer Engineering
+- Principles of Programming Languages, 2025–2026
